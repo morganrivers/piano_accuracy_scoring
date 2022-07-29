@@ -5,6 +5,10 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+NOTE: this is Audio2midi's code, but altered a little to allow for importing.
+Any mistakes are my own, but I take no credit for anything that works...
+Please don't assume this code will work, find it doesn't, then blame audio2midi...
+
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
